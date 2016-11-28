@@ -1,0 +1,1 @@
+This is the code for a burglar alarm using an ultrasonic sensor in place of a traditional motion sensor by constantly scanning and looking for significant changes in distance measurements indicative of motion. We use an LED to notify the user of an armed alarm and use Twilio's API to send text messages.
